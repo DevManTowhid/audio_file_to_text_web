@@ -8,7 +8,7 @@ export default function Home() {
        please follow below  
       </h1>
 <div>
-  <input type='file' className = "full-rounded">
+  <input type='file' className = "full-rounded" />
   </div>
 
 
